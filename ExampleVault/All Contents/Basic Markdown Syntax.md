@@ -117,3 +117,4 @@ If you hate yourself and like to waste time a lot then you can manually optimise
 Take your pick:
 [[Less Basic Markdown Syntax]]
 [[MATHEMATICAL NOTATION]]
+[[Templates]]
