@@ -11,3 +11,5 @@ Hello Cheetsheet
 3. Start with the Find what you need here file
 
 **HAVE FUN**
+
+![Majima](24hourcinderella.jpg)
