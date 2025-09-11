@@ -4,3 +4,6 @@ Mathematical notation on Obsidian is beautifully seamless and uses MathJax. You 
 
 I exclusively reference the following link for MathJax notation.
 [MathJax CheatSheet](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/)
+
+
+[[Find what you need here]]

@@ -1,5 +1,15 @@
 #Syntax #Markdown
 These are the most common md syntax used by specifically me...
+# Tags
+Starting with tags because you are already seeing some above here.
+Tags work the same way they do on any other platform e.g., Instagram.
+It gives you another way to connect file groups together... go figure. You can search by tag you can graph by tag the world is your oyster.
+## Syntax
+\#ThisIsATag
+No space between hash.
+## Result
+#ThisIsATag
+
 # Headings
 The following are headings:
 # Heading 1
@@ -12,6 +22,7 @@ The Syntax for the above is:
 \## Heading 2
 \### Heading 3
 
+Space between hash
 # Text format
 **Bold**  \== \*\*Bold** 
 *Italics* \== \*Italics* 

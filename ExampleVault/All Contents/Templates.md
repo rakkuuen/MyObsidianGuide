@@ -30,3 +30,5 @@ Unkind Regards,
 
 # Reference
 This just references the Templates page in obsidian help found [here.](https://help.obsidian.md/plugins/templates)
+
+[[Find what you need here]]
